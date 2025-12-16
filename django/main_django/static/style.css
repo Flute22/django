@@ -1,0 +1,11 @@
+html, body {
+    width: 100%;
+    height: 100vh;
+    background: #050223;
+    color: #fff;
+}
+
+h1 {
+    margin-block: 4rem;
+    text-align: center;
+}
