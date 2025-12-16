@@ -4,7 +4,24 @@
     APP
 {% endblock %}
 
-
 {% block content %}
     <h1>APP | Home Page</h1>
+    <div class="flex justify-center items-center gap-10 flex-wrap">
+        {% for chai in chais %}
+            <div class="flex flex-col  gap-2">
+                <h3>{{chai.name}}</h3>
+                <img 
+                    class="h-52 shadow-3xl shadow-amber-500/50 rounded-lg hover:scale-105"
+                    src="{{chai.image.url}}"
+                    alt=""
+                >
+                <a href="{% url 'chai_detail' chai.id %}">
+                    <button class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">
+                        chai-detail
+                    </button>
+                </a>
+            </div>    
+        {% endfor %}
+
+    </div>
 {% endblock  %}
