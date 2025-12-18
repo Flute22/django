@@ -356,4 +356,4 @@ The best part? Every Django application, no matter how complex or successful, st
 
 You're well on your way. Keep building, stay curious, and remember that every expert was once a beginner who decided to keep going.
 
-**Happy coding!** 🚀
+**Happy coding Guys!**
