@@ -13,7 +13,7 @@ Django's backend power is legendary, but creating a polished, modern UI can feel
 
 ### The Problem
 
-Current state: **Robust Django Backend** ↔️ (disconnected) ↔️ **Modern UI**
+Current state: **Robust Django Backend** (disconnected) **Modern UI**
 
 ### Our Mission
 
@@ -21,7 +21,7 @@ To conquer this setup, creating a seamless development workflow with a powerful 
 
 ### The Goal
 
-**Robust Django Backend** ↔️ (connected) ↔️ **Modern UI**
+**Robust Django Backend** (connected) **Modern UI**
 
 ---
 
@@ -398,4 +398,4 @@ You have successfully forged a modern Django stack. The foundation is set. The n
 
 This guide walked you through setting up a complete Django development environment with Tailwind CSS for modern, responsive front-ends and Django's powerful admin panel for robust back-end management. You now have a seamless workflow that bridges the gap between beautiful UI and powerful server-side capabilities.
 
-**Happy Coding!** 🚀
+**Happy coding Guys!**
